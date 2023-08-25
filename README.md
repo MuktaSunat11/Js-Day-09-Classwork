@@ -9,7 +9,7 @@ Padding
 Font size
 Font weight
 
-#HTML
+# HTML
 
 The HTML code creates a container div and a target div.
 
@@ -83,7 +83,7 @@ The HTML code creates a container div and a target div.
 </body>
 </html>
 
-#Javascript
+# Javascript
 
 Create a JavaScript file and add the following code:
 
